@@ -23,3 +23,4 @@ The controls are:
  - WASD keys: Move frame position
  - Q/E: Change variables in Mandlebrot equation
  - R: Reset variables to original Mandlebrot equation
+ - Space: Reset frame position and zoom
